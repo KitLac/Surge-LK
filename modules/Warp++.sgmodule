@@ -1,5 +1,5 @@
 #!name=Warp++
-#!desc=Hack Data WARP++, 1GB/15s(cronexp= */15 * * * * *)
+#!desc=Hack Data WARP++, 1GB/3s(cronexp= */15 * * * * *)
 
 [Host]
 api.cloudflareclient.com = server: 1.1.1.1
